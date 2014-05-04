@@ -1,0 +1,7 @@
+---
+layout: post
+title: Welcome
+categories: [intro]
+---
+# I like this
+
