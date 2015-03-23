@@ -1,0 +1,8 @@
+---
+layout: post
+title: Got new theme for my blog.
+category: intro
+---
+I'm trying out the new Slate theme for Jekyll.
+
+
