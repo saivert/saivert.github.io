@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Saivert's Blog
-tagline: gh-pages branch baby!
+tagline: 
 ---
 {% include JB/setup %}
 
